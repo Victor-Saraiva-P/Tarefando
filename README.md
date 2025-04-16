@@ -20,14 +20,6 @@ O **Tarefando** nasce para resolver um problema pessoal do seu criador, **[Victo
 - Gerar **gráficos e relatórios** para acompanhamento da produtividade.
 - Exibir **tarefas do dia**.
 - Gamificação para tornar a gestão de tarefas mais motivadora.
-## Roadmap do Projeto
-- [ ] Configuração inicial do backend com Spring Boot
-- [ ] Modelagem do banco de dados com PostgreSQL
-- [ ] Implementação das funcionalidades CRUD no backend
-- [ ] Implementação do JWT para autenticação
-- [ ] Desenvolvimento do frontend com Angular
-- [ ] Integração do frontend com o backend
-- [ ] Implementação dos gráficos para análise de produtividade
 
 ## Stack utilizada
 ### Backend
