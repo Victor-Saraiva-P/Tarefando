@@ -28,8 +28,6 @@ public class SecurityConfig {
         http
                 .csrf(AbstractHttpConfigurer::disable)
                 .authorizeHttpRequests(auth -> auth
-                        .requestMatchers("/**")
-                        .permitAll()
                         .requestMatchers("/auth/**")
                         .permitAll() // Rotas públicas
                         .anyRequest()
