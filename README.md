@@ -44,7 +44,7 @@ O frontend será desenvolvido com:
 ### Como Rodar o Backend
 1. Clone este repositório:
    ```sh
-   git clone[ https://github.com/seu-usuario/tarefando.git](https://github.com/Victor-Saraiva-P/Tarefando)
+   git clone https://github.com/Victor-Saraiva-P/Tarefando
    cd tarefando
    ```
 2. Configure o banco de dados PostgreSQL e ajuste as credenciais no `application.properties`.
